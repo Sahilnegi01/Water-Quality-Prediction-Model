@@ -1,8 +1,0 @@
-pandas
-pyyaml
-scikit-learn
-mlflow
-ipykernel
-dagshub
-dvc
-dvc-s3
